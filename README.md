@@ -1,6 +1,6 @@
 # Week 7: Javascript Basics
 
-#### Required
+#### Required                       TRY JSfiddle.net (java, html, css)  
 - Answer the following
   - What is a scripting language?
   - What is a variable?
