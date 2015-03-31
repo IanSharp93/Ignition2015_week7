@@ -12,5 +12,6 @@
 - What are events?  
   - An event in Java happens when something chagnes wiht in the langauge. Generating an event could be a source variable which will send out an event object.   
   
-- Link to codeacademy profile: 
+- Link to codeacademy profile:  http://www.codecademy.com/IanSharp1 
+
 - Code for Project Euler solution in file `project_euler_1.js`.
